@@ -1,4 +1,4 @@
-import { Children } from "react";
+import { children } from "react";
 
 function Card({ children }) {
   return <div className="card">{children}</div>;

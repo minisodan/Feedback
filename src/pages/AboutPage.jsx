@@ -1,4 +1,4 @@
-import Card from "../Componets/Shared/Card";
+import Card from "../Components/Shared/Card";
 
 function AboutPage() {
   return (

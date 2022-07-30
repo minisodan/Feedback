@@ -1,10 +1,8 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-
-import Header from "./Componets/Header";
-import FeedbackList from "./Componets/FeedbackList";
-import FeedbackStats from "./Componets/FeedbackStats";
-
-import FeedbackForm from "./Componets/FeedbackForm";
+import Header from "./Components/Header";
+import FeedbackStats from "./Components/FeedbackStats";
+import FeedbackList from "./Components/FeedbackList";
+import FeedbackForm from "./Components/FeedbackForm";
 import AboutPage from "./pages/AboutPage";
 import { FeedbackProvider } from "./context/FeedbackContext";
 
